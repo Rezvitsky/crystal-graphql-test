@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-name-here](https://github.com/Rezvitsky) - creator and maintainer
+- [Rezvitsky](https://github.com/Rezvitsky) - creator and maintainer
