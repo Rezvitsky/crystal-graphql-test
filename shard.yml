@@ -1,0 +1,19 @@
+name: crystal-graphql-test
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  crystal-graphql-test:
+    main: src/crystal-graphql-test.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+  graphql:
+    github: graphql-crystal/graphql
+
+crystal: 1.3.0
+
+license: MIT
